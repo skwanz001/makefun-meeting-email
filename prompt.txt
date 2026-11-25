@@ -1,0 +1,3 @@
+nah semuanya kerjain pake skill yg ada, ingat jangan terburu2 pastiin sesuai dengan kriteria setiap bounty dan pastikan kita menang!!! oke?
+
+Catatan: bounty ini "The Meeting That Should Have Been an Email" (slug u-plucky-finch-20-the-meeting-that-should-have-been-6ce361a9) — satu baris lelucon, maks 200 karakter, tentang meeting yang seharusnya jadi email, tanpa setup. Entry ditulis dengan skill brainstorming (angle), implement, dan code-review, lalu diukur terhadap brief judge di RULES.txt kriteria demi kriteria sebelum dipilih.
